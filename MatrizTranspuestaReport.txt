@@ -1,0 +1,90 @@
+Report created: 
+	23/11/2022	07:58:00 p. m.
+
+Project name: MatrizTranspuesta.aep
+
+Source files collected to: 
+	D:\Documentos\mauri\carpetas\UNI\Servicio Social\Videos Asesorías\MatrizTranspuestaProyecto
+
+Source files collected: All
+
+Collected comps:  
+	MatrizTranspuesta
+	CREDITS
+	TEXT
+	Matriz4x4
+	MatrizN
+	Parte1
+	Pan Short
+	MatrizA
+	Parte2
+	MatrizC
+	Parte3
+	
+Number of collected files:  21
+
+Size of collected files:  54.6 MB
+
+Collected source files: 
+	D:\Documentos\mauri\carpetas\UNI\Servicio Social\Videos Asesorías\Intro Créditos\ELEMENTS\LOGOS\FCFM.png
+	D:\Documentos\mauri\carpetas\UNI\Servicio Social\Videos Asesorías\Intro Créditos\ELEMENTS\LOGOS\Logo_de_la_UANL.png
+	D:\Documentos\mauri\carpetas\UNI\Servicio Social\Videos Asesorías\Intro Créditos\ELEMENTS\TEXTURES\pexels-eva-elijas-6485437.jpg
+	D:\Documentos\mauri\carpetas\UNI\Servicio Social\Videos Asesorías\Intro Créditos\INTRO_01.mp4
+	D:\Documentos\mauri\carpetas\UNI\Servicio Social\Videos Asesorías\Intro Créditos\MUSIC\Purple Planet Music - I WIll Find Him (2_56) 120bpm.mp3
+	D:\Documentos\mauri\carpetas\UNI\Servicio Social\Videos Asesorías\MatrizTranspuesta\Audios\Matriz_1.mp3
+	D:\Documentos\mauri\carpetas\UNI\Servicio Social\Videos Asesorías\MatrizTranspuesta\Audios\Matriz_10.mp3
+	D:\Documentos\mauri\carpetas\UNI\Servicio Social\Videos Asesorías\MatrizTranspuesta\Audios\Matriz_11.mp3
+	D:\Documentos\mauri\carpetas\UNI\Servicio Social\Videos Asesorías\MatrizTranspuesta\Audios\Matriz_12.mp3
+	D:\Documentos\mauri\carpetas\UNI\Servicio Social\Videos Asesorías\MatrizTranspuesta\Audios\Matriz_2.mp3
+	D:\Documentos\mauri\carpetas\UNI\Servicio Social\Videos Asesorías\MatrizTranspuesta\Audios\Matriz_3.mp3
+	D:\Documentos\mauri\carpetas\UNI\Servicio Social\Videos Asesorías\MatrizTranspuesta\Audios\Matriz_4.mp3
+	D:\Documentos\mauri\carpetas\UNI\Servicio Social\Videos Asesorías\MatrizTranspuesta\Audios\Matriz_5.mp3
+	D:\Documentos\mauri\carpetas\UNI\Servicio Social\Videos Asesorías\MatrizTranspuesta\Audios\Matriz_6.mp3
+	D:\Documentos\mauri\carpetas\UNI\Servicio Social\Videos Asesorías\MatrizTranspuesta\Audios\Matriz_7.mp3
+	D:\Documentos\mauri\carpetas\UNI\Servicio Social\Videos Asesorías\MatrizTranspuesta\Audios\Matriz_8-9.mp3
+	D:\Documentos\mauri\carpetas\UNI\Servicio Social\Videos Asesorías\MatrizTranspuesta\Audios\WhatsApp Audio 2022-10-23 at 8.59.41 PM (1).mpeg
+	D:\Documentos\mauri\carpetas\UNI\Servicio Social\Videos Asesorías\MatrizTranspuesta\Audios\WhatsApp Audio 2022-10-23 at 8.59.41 PM.mpeg
+	D:\Documentos\mauri\carpetas\UNI\Servicio Social\Videos Asesorías\MatrizTranspuesta\Audios\WhatsApp Audio 2022-10-23 at 8.59.42 PM (1).mpeg
+	D:\Documentos\mauri\carpetas\UNI\Servicio Social\Videos Asesorías\MatrizTranspuesta\Audios\WhatsApp Audio 2022-10-23 at 8.59.42 PM.mpeg
+	D:\Documentos\mauri\carpetas\UNI\Servicio Social\Videos Asesorías\MatrizTranspuesta\Música\Educational.wav
+	
+Rendering plug-ins:
+	Classic 3D
+	
+Effects used:  15
+
+Effect:  Angle Control
+	
+Effect:  Brightness & Contrast
+	
+Effect:  CC Composite
+	
+Effect:  Checkbox Control
+	
+Effect:  Color Control
+	
+Effect:  Curves
+	
+Effect:  Emboss
+	
+Effect:  Gradient Ramp
+	
+Effect:  Grid
+	
+Effect:  Hue/Saturation
+	
+Effect:  Motion Tile
+	
+Effect:  Slider Control
+	
+Effect:  Solid Composite
+	
+Effect:  Tint
+	
+Effect:  Transform
+	
+
+Layer:  Text Layer
+	External dependencies:  
+		Font family: “Arial”, Font style: “Bold”
+
